@@ -6,8 +6,8 @@
 <h3 align="center">A passionate Full Stack Developer (MERN) from India</h3>
 
 <p align="center">
-  🔗 <b>Portfolio:</b> <a href="https://1201mansigarg.github.io/Portfolio">Click here</a> &nbsp;|&nbsp;
-  📄 <b>Resume:</b> <a href="https://github.com/1201mansigarg/Resume/blob/main/Mansi_Garg_Resume.pdf?raw=true">Download</a>
+<!--   🔗 <b>Portfolio:</b> <a href="https://1201mansigarg.github.io/Portfolio">Click here</a> &nbsp;|&nbsp; -->
+  📄 <b>Resume:</b> <a href="https://github.com/1201mansigarg/Resume">Download</a>
 </p>
 
 ---
