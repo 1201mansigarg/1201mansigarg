@@ -6,7 +6,6 @@
 <h3 align="center">A passionate Full Stack Developer (MERN) from India</h3>
 
 <p align="center">
-<!--   🔗 <b>Portfolio:</b> <a href="https://1201mansigarg.github.io/Portfolio">Click here</a> &nbsp;|&nbsp; -->
   📄 <b>Resume:</b> <a href="https://github.com/1201mansigarg/Resume">Download</a>
 </p>
 
@@ -55,15 +54,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1201mansigarg&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1201mansigarg&theme=dark&hide_border=false" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1201mansigarg&theme=dark&hide_border=false&layout=compact" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=1201mansigarg&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1201mansigarg&theme=github-dark&hide_border=false" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1201mansigarg&theme=github_dark&hide_border=false&layout=compact" height="180" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=1201mansigarg.1201mansigarg" />
+  <img src="https://komarev.com/ghpvc/?username=1201mansigarg&style=flat-square&color=blue" alt="Visitor Count" />
 </p>
 
 <!-- README crafted with 💙 by Mansi Garg -->
